@@ -1,0 +1,111 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest identifier="_5pNAuqQzp8f" version="1.0" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+    <lom xmlns="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd">
+      <general>
+        <title>
+          <langstring xml:lang="x-none">ASM Prototype</langstring>
+        </title>
+      </general>
+      <lifecycle>
+        <version>
+          <langstring xml:lang="x-none">1</langstring>
+        </version>
+        <status>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">Final</langstring>
+          </value>
+        </status>
+      </lifecycle>
+      <metametadata>
+        <metadatascheme>ADL SCORM 1.2</metadatascheme>
+      </metametadata>
+      <educational>
+        <typicallearningtime>
+          <datetime>PT0H0M0S</datetime>
+        </typicallearningtime>
+      </educational>
+      <rights>
+        <cost>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </cost>
+        <copyrightandotherrestrictions>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </copyrightandotherrestrictions>
+      </rights>
+    </lom>
+  </metadata>
+  <organizations default="ASM_Prototype_ORG">
+    <organization identifier="ASM_Prototype_ORG">
+      <title>ASM Prototype</title>
+      <item identifier="ASM_Prototype_SCO" isvisible="true" identifierref="__5pNAuqQzp8f_RES">
+        <title>ASM Prototype</title>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="__5pNAuqQzp8f_RES" type="webcontent" href="index_lms.html" adlcp:scormtype="sco">
+      <file href="story_content/thumbnail.jpg" />
+      <file href="story_content/video_60TuXRFQILi_21_56_960x540.mp4" />
+      <file href="mobile/poster_6WtWnETn5x9_video_60TuXRFQILi_21_56_960x540.jpg" />
+      <file href="mobile/6G1BeZ6eKC5_P_120_0_381_540.jpg" />
+      <file href="story_content/video_6MUFexvBgQr_21_56_960x540.mp4" />
+      <file href="mobile/poster_6a82XE6x8II_video_6MUFexvBgQr_21_56_960x540.jpg" />
+      <file href="mobile/6ivP5mOi4XK_P_0_324_1365_1723.jpg" />
+      <file href="mobile/6AdxJ71cNNs_P_0_311_1365_1736.jpg" />
+      <file href="mobile/64V4bQQmYXZ_P_0_0_1368_1714.jpg" />
+      <file href="mobile/5VrMfsYryMT.png" />
+      <file href="mobile/6bxh6AFMBjU.png" />
+      <file href="mobile/5fIfk5KTErF.png" />
+      <file href="mobile/6V4iKmoKIQ6.png" />
+      <file href="mobile/5d7RXrSTCwH_B-9_C-20_P_223_193_1824_1025.jpg" />
+      <file href="mobile/6oZGW703NoM_RG.png" />
+      <file href="meta.xml" />
+      <file href="story_content/user.js" />
+      <file href="html5/data/css/output.min.css" />
+      <file href="html5/data/js/5jSwy9WFR8O.js" />
+      <file href="html5/data/js/5ycvcxCE61A.js" />
+      <file href="html5/data/js/617DHhjfWhG.js" />
+      <file href="html5/data/js/61yDkihObw2.js" />
+      <file href="html5/data/js/6DinbUcJO6A.js" />
+      <file href="html5/data/js/6HxngBbH0u8.js" />
+      <file href="html5/data/js/6rCnRdwZUlH.js" />
+      <file href="html5/data/js/6SdP7NniuUW.js" />
+      <file href="html5/data/js/data.js" />
+      <file href="html5/data/js/frame.js" />
+      <file href="html5/data/js/paths.js" />
+      <file href="html5/lib/scripts/bootstrapper.min.js" />
+      <file href="html5/lib/scripts/frame.desktop.min.js" />
+      <file href="html5/lib/scripts/frame.mobile.min.js" />
+      <file href="html5/lib/scripts/slides.min.js" />
+      <file href="html5/lib/stylesheets/desktop.min.css" />
+      <file href="html5/lib/stylesheets/mobile.min.css" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-bold.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-light.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-regular.woff" />
+      <file href="analytics-frame.html" />
+      <file href="story.html" />
+      <file href="index_lms.html" />
+      <file href="lms/AICCComm.html" />
+      <file href="lms/blank.html" />
+      <file href="lms/browsersniff.js" />
+      <file href="lms/goodbye.html" />
+      <file href="lms/scormdriver.js" />
+    </resource>
+  </resources>
+</manifest>
